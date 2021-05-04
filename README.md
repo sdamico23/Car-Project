@@ -17,3 +17,4 @@ Important folders:
 1. HW7: Self driving using IR sensor, Manual mode using keyboard, track distance/speed using accelerometer
 2. HW9: Manual driving using keyboard (m1 mode), follow laser pointer (m2 mode)
 
+Demonstration videos can be found in the Demo_Videos directory.
