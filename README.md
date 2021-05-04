@@ -1,1 +1,2 @@
 # Car-Project
+This repository contains code for creating a car controlled by your keyboard using C. The car also has a self driving mode, which uses two IR sensors to guide the car around a track made of black electrical tape on a fllor of light color (oreferable white/tan). To run the programs, enter make then ./(name of executable). A list of possible commands will be printed to the console at the start of the program. 
